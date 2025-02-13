@@ -41,7 +41,7 @@ I did not enjoy this book and find it extremely long-winded. It is a book that i
 
 ⭐⭐
 
-Knocking this slightly for the structure, but it has great content. If you like a narrative-based that focuses more on the "why", then this is an excellent book. The content is a bit dated in the sense that there resources like [Azure's Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/) and [AWS's Well-Architected](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/index.en.html) feel more comprehensive and practical. Regardless, I found ideas like bulkheading directly applicable to multitenant systems I've worked on.
+Knocking this slightly for the structure, but it has great content. If you like a narrative-based that focuses more on the "why", then this is an excellent book. The content is a bit dated in the sense that there resources like [Azure's Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/) and [AWS's Well-Architected](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/index.en.html) feel more comprehensive and practical. Regardless, I found ideas like bulkheading directly applicable to multitenant systems I've worked on. The real kicker is the book's emphasis on feedback loops and how they result in failures.
 
 #### [Working with Unix Processes](https://workingwithruby.com/wwup/intro)
 
@@ -66,3 +66,39 @@ The industry standard when it comes to performance engineering. This book is gre
 ⭐⭐⭐⭐
 
 Although not as monumental as Systems Performance, I found this specialty book to be immensely useful. This book is more focussed on the development and inner workings of eBPF and bpftrace. It focsues more on specific APIs, event handles, and patterns. Most of the book's useful content can be obtained from cheatsheets, however I still found the long-form explanations useful too.
+
+#### [Understanding Software Dynamics](https://www.oreilly.com/library/view/understanding-software-dynamics/9780137589692/)
+
+⭐⭐⭐
+
+I'm not typically fond of narrative-heavy books, and this books follows that structure. While I found the stories interesting, I found it difficult to extract and retain the big-picture ideas.
+
+#### [The Go Programming Language](https://www.gopl.io/)
+
+⭐⭐⭐⭐
+
+This book is unfortunately a bit dated now and is missing content around several major developments - namely packaging and generics. Still, I found most of the content to be very strong and relevant. The code examples in the book are particularly well chosen for expalining nuances about writing good Go code.
+
+#### [100 Go Mistakes and How to Avoid Them](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
+
+⭐⭐⭐
+
+After reading other Go books and documentation, I only a found a few of these mistakes novel. Issues like those around looping and variable binding are well-discussed in the Go community these days. If you didn't have a strong foundation or community in Go which could help you get accustomed to the issues, then I think this book would be very valuable. For me, I found the chapters around efficient memory usage and correct synchronization the most useful.
+
+#### [Programming Elixir](https://pragprog.com/titles/elixir16/programming-elixir-1-6/)
+
+⭐⭐⭐⭐⭐
+
+Amazing book that manages to be concise, simple, informative, and technically complex all at the same time. OTP is a challenging model to wrap your head around because it is so much higher level/batteries included compared to your typical programming language. This book covers functional programming, metaprogramming, actors, and OTP applications hitting on the most important aspects of each.
+
+#### [Exercises for Programmers: 57 Challenges to Develop Your Coding Skills](https://pragprog.com/titles/bhwb/exercises-for-programmers/)
+
+⭐
+
+I wanted to like this book, however I found the coding challenges to be wholly impractical focusing more on the puzzle side of programming rather than getting-things-done side. I was really hoping for a set of tasks that you could use to efficiently learn the standard library of many programming languages (read a file, make an HTTP request), but I didn't find it very useful in that regard.
+
+#### [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
+
+⭐⭐⭐⭐
+
+A very useful and extremely relevant book on how, organizationally, to run a large production application well. The content starts off high quality and then tapers off around the midpoint as topics become less tangible and less evidence-based. Chapters around effective monitoring, incident management, and SLOs are must-reads. A foundational book even if half of it isn't useful.
