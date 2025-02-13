@@ -42,3 +42,27 @@ I did not enjoy this book and find it extremely long-winded. It is a book that i
 ⭐⭐
 
 Knocking this slightly for the structure, but it has great content. If you like a narrative-based that focuses more on the "why", then this is an excellent book. The content is a bit dated in the sense that there resources like [Azure's Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/) and [AWS's Well-Architected](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/index.en.html) feel more comprehensive and practical. Regardless, I found ideas like bulkheading directly applicable to multitenant systems I've worked on.
+
+#### [Working with Unix Processes](https://workingwithruby.com/wwup/intro)
+
+⭐⭐⭐⭐⭐
+
+I loved this book. Maybe it's just nostalgia, however this was the book that made multi-processing click for me. It helps that I was experienced in Ruby and working with fork-based worker libraries at the time. I've found the clarity around processes indispensible throughout my career.
+
+#### [Getting to Yes](https://en.wikipedia.org/wiki/Getting_to_Yes)
+
+⭐⭐⭐⭐⭐
+
+Concise, clear, and actionable. I've found the negotiation tactics in this book very useful for working with stakeholders and for driving alignment. Despite it being about "negotiation", it is really about how to resolve conflicts by focusing on understanding what the other side wants, clearly communicating what you want, and trying to emphasize the objective goal of coming to a deal.
+
+#### [Systems Performance: Enterprise and the Cloud, 2nd Edition](https://www.brendangregg.com/blog/2020-07-15/systems-performance-2nd-edition.html)
+
+⭐⭐⭐⭐⭐
+
+The industry standard when it comes to performance engineering. This book is great because it covers both the technical and organizational aspects of performance. I've found its emphasis on [methodologies](https://www.brendangregg.com/methodology.html) particularly enlightening. A fantastic book that I can't recommend enough.
+
+#### [BPF Performance Tools](https://www.brendangregg.com/bpf-performance-tools-book.html)
+
+⭐⭐⭐⭐
+
+Although not as monumental as Systems Performance, I found this specialty book to be immensely useful. This book is more focussed on the development and inner workings of eBPF and bpftrace. It focsues more on specific APIs, event handles, and patterns. Most of the book's useful content can be obtained from cheatsheets, however I still found the long-form explanations useful too.
